@@ -1,4 +1,4 @@
-### Olá, me chamo André Matheus Arão 🤓
+### Olá, me chamo André Matheus Arão 🤓 e aqui estão alguns dos meus projetos!
 <hr>
 
  <div>
