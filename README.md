@@ -1,4 +1,5 @@
-### Olá, meu nome é André Matheus Arão 🤓 clique em Repositories para ver alguns dos meus projetos!
+### Olá, meu nome é André Arão 🤓 
+Clique em "Repositories" para ver alguns dos meus projetos!
 <hr>
 
  <div>
