@@ -1,4 +1,4 @@
-### Olá, meu nome é André Arão 🤓 
+### Olá, meu nome é André Arão 🤓 <a href = "https://github.com/andre-arao?tab=repositories">Repositories</a>
 Clique em "Repositories" para ver alguns dos meus projetos!
 <hr>
 
